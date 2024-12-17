@@ -14,11 +14,13 @@ public Swimming(string date, double length, double laps) : base (date,length)
     }
     public override double GetSpeed()
     {
-        return _laps *50/1000/_length;
+        double length =GetTime();
+        return _laps *50/1000/length;
     }
     public override double GetPace()
     {
-        return 60/(_laps *50/1000/_length);
+        double length =GetTime();
+        return 60/(_laps *50/1000/length);
     }
 
     

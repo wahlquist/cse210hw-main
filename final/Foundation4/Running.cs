@@ -17,11 +17,13 @@ private double _distance;
     }
     public override double GetSpeed()
     {
-        return _distance/_length;
+        double length =GetTime();
+        return _distance/length;
     }
     public override double GetPace()
     {
-        return 60/(_distance/_length);
+        double length =GetTime();
+        return 60/(_distance/length);
     }
 
 

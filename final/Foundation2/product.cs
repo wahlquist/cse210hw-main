@@ -4,11 +4,18 @@
 public class Product 
 {
 
-public string _name;
-public string _productId;
-public int _unitprice;
-public int _quantity;
+private string _name;
+private string _productId;
+private int _unitprice;
+private int _quantity;
 
+ public Product(string name, string productId, int unitprice, int quantity)
+ {
+_name=name;
+_productId=productId;
+_unitprice=unitprice;
+_quantity=quantity;
+ }
 
 public int Getsubtotal()
 {

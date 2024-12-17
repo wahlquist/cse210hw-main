@@ -1,14 +1,27 @@
 
 
 
+using System.Security.Authentication;
+
 public class Address
 {
-public bool _usa;
-public string _street;
-public string _city;
-public string _state;
-public string _country;
+private bool _usa;
+private string _street;
+private string _city;
+private string _state;
+private string _country;
 
+public Address(bool usa, string street,string city, string state ,string country)
+{
+    _usa = usa;
+    _street=street;
+    _city = city;
+    _state = state;
+    _country = country;
+    
+
+
+}
 public bool GetName()
 {
     return _usa;

@@ -5,20 +5,16 @@ class Program
     static void Main(string[] args)
     {
         
-        Video video1 = new Video();
-        video1._title = "I eat a human!! irl not clickbait!!";
-        video1._author = "yourdailycannabal56";
-        video1._length = 200;
+        Video video1 = new Video("I eat a human!! irl not clickbait!!","yourdailycannabal56",200);
+   
        
-        Comment comment1 = new Comment();
-        comment1._name = "jared";
-        comment1._comment= "whose still here in 2023";
-        Comment comment2 = new Comment();
-        comment2._name = "Dave";
-        comment2._comment= "i wonder where he got them";
-        Comment comment3 = new Comment();
-        comment3._name = "taylieh";
-        comment3._comment= "Where can i get some";
+        Comment comment1 = new Comment("jared","whose still here in 2023");
+  
+        Comment comment2 = new Comment("Dave","i wonder where he got them");
+
+ 
+        Comment comment3 = new Comment("taylieh","Where can i get some");
+   
 
 
         video1._comments.Add(comment1);
@@ -27,20 +23,14 @@ class Program
 
       
 
-        Video video2 = new Video();
-        video2._title = "how the french tie there shoes";
-        video2._author = "disabilityawarness";
-        video2._length = 400;
+        Video video2 = new Video("how the french tie there shoes" ,"disabilityawarness",400);
+  
+Comment comment4 = new Comment("darel","where can i get one for my house");
 
-Comment comment4 = new Comment();
-        comment4._name = "darel";
-        comment4._comment= "where can i get one for my house";
-        Comment comment5 = new Comment();
-        comment5._name = "sharlene";
-        comment5._comment= "whats with the hate against france";
-        Comment comment6 = new Comment();
-        comment6._name = "jean";
-        comment6._comment= "quelque chose en français";
+        Comment comment5 = new Comment("sharlene","whats with the hate against france");
+  
+        Comment comment6 = new Comment("jean","quelque chose en français");
+
 
 
         video2._comments.Add(comment4);
@@ -49,19 +39,14 @@ Comment comment4 = new Comment();
 
 
 
-        Video video3 = new Video();
-        video3._title = "The govenment knows eveything about you";
-        video3._author = "bourgeoisieBirds";
-        video3._length = 600;
-        Comment comment7 = new Comment();
-        comment7._name = "hoot";
-        comment7._comment= "first comment";
-        Comment comment8 = new Comment();
-        comment8._name = "vancouver";
-        comment8._comment= "The birds work for the bousuise";
-        Comment comment9 = new Comment();
-        comment9._name = "kyle";
-        comment9._comment= "Watch this video get taken down imedietly";
+        Video video3 = new Video("The govenment knows eveything about you","bourgeoisieBirds",600);
+
+        Comment comment7 = new Comment("hoot","first comment");
+
+        Comment comment8 = new Comment("vancouver","The birds work for the bousuise");
+
+        Comment comment9 = new Comment("kyle","Watch this video get taken down imedietly");
+
 
 
         video3._comments.Add(comment7);

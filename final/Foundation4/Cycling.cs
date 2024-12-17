@@ -11,7 +11,8 @@ public Cycling(string date, double length, double speed) : base (date,length)
     
     public override double GetDistance()
     {
-        return _speed * _length ;
+        double length =GetTime();
+        return _speed * length ;
     }
     public override double GetSpeed()
     {
