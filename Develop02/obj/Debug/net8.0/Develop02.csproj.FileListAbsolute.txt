@@ -1,0 +1,15 @@
+C:\Users\AquaS\Downloads\cse210hw-main\cse210hw-main\prove\Develop02\bin\Debug\net8.0\Develop02.exe
+C:\Users\AquaS\Downloads\cse210hw-main\cse210hw-main\prove\Develop02\bin\Debug\net8.0\Develop02.deps.json
+C:\Users\AquaS\Downloads\cse210hw-main\cse210hw-main\prove\Develop02\bin\Debug\net8.0\Develop02.runtimeconfig.json
+C:\Users\AquaS\Downloads\cse210hw-main\cse210hw-main\prove\Develop02\bin\Debug\net8.0\Develop02.dll
+C:\Users\AquaS\Downloads\cse210hw-main\cse210hw-main\prove\Develop02\bin\Debug\net8.0\Develop02.pdb
+C:\Users\AquaS\Downloads\cse210hw-main\cse210hw-main\prove\Develop02\obj\Debug\net8.0\Develop02.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\AquaS\Downloads\cse210hw-main\cse210hw-main\prove\Develop02\obj\Debug\net8.0\Develop02.AssemblyInfoInputs.cache
+C:\Users\AquaS\Downloads\cse210hw-main\cse210hw-main\prove\Develop02\obj\Debug\net8.0\Develop02.AssemblyInfo.cs
+C:\Users\AquaS\Downloads\cse210hw-main\cse210hw-main\prove\Develop02\obj\Debug\net8.0\Develop02.csproj.CoreCompileInputs.cache
+C:\Users\AquaS\Downloads\cse210hw-main\cse210hw-main\prove\Develop02\obj\Debug\net8.0\Develop02.sourcelink.json
+C:\Users\AquaS\Downloads\cse210hw-main\cse210hw-main\prove\Develop02\obj\Debug\net8.0\Develop02.dll
+C:\Users\AquaS\Downloads\cse210hw-main\cse210hw-main\prove\Develop02\obj\Debug\net8.0\refint\Develop02.dll
+C:\Users\AquaS\Downloads\cse210hw-main\cse210hw-main\prove\Develop02\obj\Debug\net8.0\Develop02.pdb
+C:\Users\AquaS\Downloads\cse210hw-main\cse210hw-main\prove\Develop02\obj\Debug\net8.0\Develop02.genruntimeconfig.cache
+C:\Users\AquaS\Downloads\cse210hw-main\cse210hw-main\prove\Develop02\obj\Debug\net8.0\ref\Develop02.dll
